@@ -2,7 +2,7 @@
 /**
  * print_most_numbers -print number
  *
- * return: alway 0.
+ * Return: Always 0.
  */
 void print_most_numbers(void)
 {
@@ -15,4 +15,5 @@ if (i != 2 && i != 4)
 }
 }												
 _putchar ('\n');
+
 }
