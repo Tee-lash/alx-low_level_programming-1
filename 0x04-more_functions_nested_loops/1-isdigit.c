@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 /**
-* _isdigit - check for a digit.
-* @c: variable
-*
-* Return: Always 0.
-*/
+ * _isdigit - check for a digit.
+ * @c: variable
+ *
+ * Return: Always 0.
+ */
 
 int _isdigit(int c)
 {
